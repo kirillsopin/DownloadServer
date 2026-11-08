@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../DownloadClient/DownloadClient/FinalClient.csproj" />
+  <Project Path="DownloadServer.csproj" />
+</Solution>
